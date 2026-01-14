@@ -1,0 +1,7 @@
+C:\Users\alve.nielsen\source\repos\text strory\text strory\bin\Debug\text strory.exe.config
+C:\Users\alve.nielsen\source\repos\text strory\text strory\bin\Debug\text strory.exe
+C:\Users\alve.nielsen\source\repos\text strory\text strory\bin\Debug\text strory.pdb
+C:\Users\alve.nielsen\source\repos\text strory\text strory\obj\Debug\text strory.csproj.AssemblyReference.cache
+C:\Users\alve.nielsen\source\repos\text strory\text strory\obj\Debug\text strory.csproj.CoreCompileInputs.cache
+C:\Users\alve.nielsen\source\repos\text strory\text strory\obj\Debug\text strory.exe
+C:\Users\alve.nielsen\source\repos\text strory\text strory\obj\Debug\text strory.pdb
