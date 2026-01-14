@@ -18,7 +18,7 @@ namespace text_strory
             };
 
 
-            Console.WriteLine($"du heter ");
+            Console.WriteLine($"du heter {spelfigur1.name} och har {spelfigur1.health}hp");
             Console.WriteLine("Du vaknar upp i en kall fängelsecell.");
             Console.WriteLine("Det finns en dörr och ett litet fönster");
             Console.WriteLine("Vad vill du göra");
